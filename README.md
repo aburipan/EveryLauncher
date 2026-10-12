@@ -155,3 +155,4 @@ EveryLauncher/
 ## ライセンス
 
 [MIT License](LICENSE)
+Created by Claude
