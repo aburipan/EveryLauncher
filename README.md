@@ -156,3 +156,8 @@ EveryLauncher/
 
 [MIT License](LICENSE)
 Created by Claude
+
+## 寄付について
+
+- DMにて寄付まってます！
+- x.com/aburipan_app
