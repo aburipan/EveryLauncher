@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="docs/icon.png" width="120" alt="Every Launcher icon">
+</p>
+
 # Every Launcher
 
-**Every Launcher** は、Android 9（API 28）以降向けの、スマートディスプレイ風のホームランチャーです。時計・天気・予定・タイマーを、横スワイプで切り替えて使えます。
+**Every Launcher** は、Android 9（API 28）向けの、スマートディスプレイ風のホームランチャーです。時計・天気・予定・タイマーを、横スワイプで切り替えて使えます。
 
 > **English summary:** Every Launcher is a smart-display–style home launcher for Android 9 (landscape). Swipe between a 24-hour weather band, a clock/weather home screen, a 7-day calendar and stopwatch/timer tools. Weather comes from [Open-Meteo](https://open-meteo.com/) (no API key), events from the device calendar. Written in Kotlin with plain Views, no third-party UI libraries except ViewPager2.
 
@@ -121,6 +125,7 @@ EveryLauncher/
 ├─ .github/workflows/      # APKを自動ビルドするワークフロー
 ├─ app/src/main/
 │  ├─ AndroidManifest.xml  # HOME ランチャーとして登録
+│  ├─ res/                 # アプリアイコン（アダプティブアイコン）
 │  ├─ assets/weather/      # 天気の写真を同梱する場合の置き場所（任意）
 │  └─ java/com/example/everylauncher/
 │     └─ MainActivity.kt   # 画面・データ取得・WeatherView（背景アニメーション）
@@ -155,9 +160,3 @@ EveryLauncher/
 ## ライセンス
 
 [MIT License](LICENSE)
-Created by Claude
-
-## 寄付について
-
-- DMにて寄付まってます！
-- x.com/aburipan_app
