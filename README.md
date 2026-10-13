@@ -10,11 +10,20 @@
 
 > このアプリは非公式で、Google LLC とは関係ありません。Google の Nest Hub などのスマートディスプレイにインスパイアされていますが、「Nest」「Nest Hub」は Google LLC の商標です。
 
-<!--
 ## スクリーンショット
-docs/screenshots/ に画像を置いて、ここに貼ってください。
-![home](docs/screenshots/1.JPG)
--->
+
+左から右へスワイプする順に並べています（起動時はホームです）。
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/2.JPG" alt="今後24時間の天気" width="420"><br>今後24時間の天気</td>
+    <td align="center"><img src="docs/screenshots/1.JPG" alt="ホーム" width="420"><br>ホーム</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/3.JPG" alt="今後7日間の予定" width="420"><br>今後7日間の予定</td>
+    <td align="center"><img src="docs/screenshots/4.png" alt="ストップウォッチとタイマー" width="420"><br>ストップウォッチ・タイマー</td>
+  </tr>
+</table>
 
 ## 特長
 
@@ -123,6 +132,7 @@ adb uninstall com.example.everylauncher
 ```
 EveryLauncher/
 ├─ .github/workflows/      # APKを自動ビルドするワークフロー
+├─ docs/                   # アイコンとスクリーンショット
 ├─ app/src/main/
 │  ├─ AndroidManifest.xml  # HOME ランチャーとして登録
 │  ├─ res/                 # アプリアイコン（アダプティブアイコン）
