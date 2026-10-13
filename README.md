@@ -13,7 +13,7 @@
 <!--
 ## スクリーンショット
 docs/screenshots/ に画像を置いて、ここに貼ってください。
-![home](docs/screenshots/1.jpg)
+![home](docs/screenshots/1.JPG)
 -->
 
 ## 特長
