@@ -1,6 +1,6 @@
 # Every Launcher
 
-**Every Launcher** は、Android 9（API 28）移行向けの、スマートディスプレイ風のホームランチャーです。時計・天気・予定・タイマーを、横スワイプで切り替えて使えます。
+**Every Launcher** は、Android 9（API 28）以降向けの、スマートディスプレイ風のホームランチャーです。時計・天気・予定・タイマーを、横スワイプで切り替えて使えます。
 
 > **English summary:** Every Launcher is a smart-display–style home launcher for Android 9 (landscape). Swipe between a 24-hour weather band, a clock/weather home screen, a 7-day calendar and stopwatch/timer tools. Weather comes from [Open-Meteo](https://open-meteo.com/) (no API key), events from the device calendar. Written in Kotlin with plain Views, no third-party UI libraries except ViewPager2.
 
