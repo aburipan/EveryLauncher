@@ -1,0 +1,44 @@
+package jp.aburipan.everylauncher.weather;
+
+public final class WeatherCodes {
+    public static final int WMO_CLEAR_SKY = 0;
+    public static final int WMO_MAINLY_CLEAR = 1;
+    public static final int WMO_PARTLY_CLOUDY = 2;
+    public static final int WMO_OVERCAST = 3;
+    public static final int WMO_FOG = 45;
+    public static final int WMO_DEPOSITING_RIME_FOG = 48;
+    public static final int WMO_LIGHT_DRIZZLE = 51;
+    public static final int WMO_DRIZZLE_VARIANT_52 = 52;
+    public static final int WMO_MODERATE_DRIZZLE = 53;
+    public static final int WMO_DRIZZLE_VARIANT_54 = 54;
+    public static final int WMO_DENSE_DRIZZLE = 55;
+    public static final int WMO_FREEZING_DRIZZLE_LIGHT = 56;
+    public static final int WMO_FREEZING_DRIZZLE_DENSE = 57;
+    public static final int WMO_DRIZZLE_VARIANT_58 = 58;
+    public static final int WMO_DRIZZLE_VARIANT_59 = 59;
+    public static final int WMO_SLIGHT_RAIN = 60;
+    public static final int WMO_LIGHT_RAIN = 61;
+    public static final int WMO_RAIN_VARIANT_62 = 62;
+    public static final int WMO_MODERATE_RAIN = 63;
+    public static final int WMO_RAIN_VARIANT_64 = 64;
+    public static final int WMO_HEAVY_RAIN = 65;
+    public static final int WMO_FREEZING_RAIN_LIGHT = 66;
+    public static final int WMO_FREEZING_RAIN_HEAVY = 67;
+    public static final int WMO_SNOW_FALL = 71;
+    public static final int WMO_SNOW_VARIANT_72 = 72;
+    public static final int WMO_MODERATE_SNOW_FALL = 73;
+    public static final int WMO_SNOW_VARIANT_74 = 74;
+    public static final int WMO_HEAVY_SNOW_FALL = 75;
+    public static final int WMO_SNOW_VARIANT_76 = 76;
+    public static final int WMO_SNOW_GRAINS = 77;
+    public static final int WMO_RAIN_SHOWERS_SLIGHT = 80;
+    public static final int WMO_RAIN_SHOWERS_MODERATE = 81;
+    public static final int WMO_RAIN_SHOWERS_VIOLENT = 82;
+    public static final int WMO_SNOW_SHOWERS_SLIGHT = 85;
+    public static final int WMO_SNOW_SHOWERS_HEAVY = 86;
+    public static final int WMO_THUNDERSTORM = 95;
+    public static final int WMO_THUNDERSTORM_HAIL_SLIGHT = 96;
+    public static final int WMO_THUNDERSTORM_VARIANT_97 = 97;
+    public static final int WMO_THUNDERSTORM_VARIANT_98 = 98;
+    public static final int WMO_THUNDERSTORM_HAIL_HEAVY = 99;
+}
