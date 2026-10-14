@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="120" alt="Every Launcher icon">
+  <img src="icon.webp" width="120" alt="Every Launcher Logo">
 </p>
 
 # Every Launcher
