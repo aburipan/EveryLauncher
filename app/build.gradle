@@ -1,0 +1,32 @@
+plugins {
+    alias(libs.plugins.agp.app)
+}
+
+android {
+    namespace = "jp.aburipan.everylauncher"
+    //noinspection GradleDependency
+    compileSdk = 36
+    defaultConfig {
+        minSdk = 28
+        targetSdk = compileSdk
+        versionCode = 1
+        versionName = "1.0"
+        proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+    }
+
+    buildTypes {
+        configureEach {
+            signingConfig = signingConfigs.debug
+            minifyEnabled = false
+        }
+        release {
+            minifyEnabled = true
+            shrinkResources = true
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_21
+        targetCompatibility JavaVersion.VERSION_21
+    }
+}

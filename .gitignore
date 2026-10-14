@@ -1,0 +1,20 @@
+# Gradle
+/.gradle/
+/gradle/gradle-daemon-jvm.properties
+# Android SDK
+/local.properties
+# Kotlin
+/.kotlin/
+# Gradle Build
+/*/build/
+# AGP Lint
+/build/
+# Android Studio Signing APK
+/*/debug/
+/*/release/
+# IntelliJ
+/.idea/
+# VS Code
+/.vscode/
+# macOS
+.DS_Store
