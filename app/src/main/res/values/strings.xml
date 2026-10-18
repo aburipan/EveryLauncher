@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Every Launcher</string>
+    <string name="temperature_format" translatable="false">%1$d°C</string>
+    <string name="temperature_range_format">High %1$d°C / Low %2$d°C</string>
+    <string name="expanded_clock_format" translatable="false">H:mm:ss</string>
+    <string name="clock_format" translatable="false">H:mm</string>
+    <string name="stopwatch_initial" translatable="false">0:00</string>
+    <string name="timer_initial" translatable="false">5:00</string>
+    <string name="greeting_morning">Good morning</string>
+    <string name="greeting_day">Hello</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="close">Close</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="timer">Timer</string>
+    <string name="open_alarm">Open alarm</string>
+    <string name="tap_to_expand">Tap to expand</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="stop">Stop</string>
+    <string name="resume">Resume</string>
+    <string name="minutes_format">%1$d min</string>
+    <string name="set_time">Set time</string>
+    <string name="settings">Settings</string>
+    <string name="pause">Pause</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="timer_duration">Timer duration</string>
+    <string name="set">Set</string>
+    <string name="cancel">Cancel</string>
+    <string name="calendar_timed_date_format" translatable="false">M/d(E) HH:mm</string>
+    <string name="calendar_all_day_date_format" translatable="false">M/d(E)</string>
+    <string name="forecast_date_format" translatable="false">M/d(E)</string>
+    <string name="calendar_no_title">(No title)</string>
+    <string name="calendar_all_day_format">%1$s All day</string>
+    <string name="next_event_format" translatable="false">%1$s\n%2$s</string>
+    <string name="calendar_next_days_title">Upcoming events</string>
+    <string name="calendar_permission_required">Calendar permission is required</string>
+    <string name="permission_required">Permission is required</string>
+    <string name="calendar_empty">No events in the next 7 days</string>
+    <string name="calendar_no_events">No events</string>
+    <string name="home_date_format">MMM d (EEE)</string>
+    <string name="expanded_date_format">EEEE, MMMM d, yyyy</string>
+    <string name="apps">Apps</string>
+    <string name="weather_loading">Loading weather…</string>
+    <string name="forecast_hint">Tap for 7-day forecast</string>
+    <string name="next_event">Next event</string>
+    <string name="calendar_hint">Tap for 7-day calendar</string>
+    <string name="location_icon" translatable="false">📍</string>
+    <string name="unknown_temperature" translatable="false">--°C</string>
+    <string name="forecast_24_hours">Weather for the next 24 hours</string>
+    <string name="forecast_loading">Loading forecast…</string>
+    <string name="now">Now</string>
+    <string name="forecast_hour_format">%1$d:00</string>
+    <string name="forecast_temperature_format" translatable="false">%1$d°C</string>
+    <string name="precipitation_format" translatable="false">💧%1$d%%</string>
+    <string name="forecast_7_days">7-day forecast</string>
+    <string name="weather_permission_required">Location permission is required</string>
+    <string name="location_disabled">Location is turned off</string>
+    <string name="location_loading">Getting your location…</string>
+    <string name="weather_unavailable">Unable to get weather</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="weather_clear_icon" translatable="false">☀️</string>
+    <string name="weather_night_icon" translatable="false">🌙</string>
+    <string name="weather_partly_cloudy_icon" translatable="false">🌤</string>
+    <string name="weather_cloudy_icon" translatable="false">☁️</string>
+    <string name="weather_fog_icon" translatable="false">🌫</string>
+    <string name="weather_drizzle_icon" translatable="false">🌦</string>
+    <string name="weather_rain_icon" translatable="false">🌧</string>
+    <string name="weather_snow_icon" translatable="false">❄️</string>
+    <string name="weather_snow_shower_icon" translatable="false">🌨</string>
+    <string name="weather_thunderstorm_icon" translatable="false">⛈</string>
+    <string name="weather_unknown_icon" translatable="false">🌡</string>
+    <string name="weather_clear">Clear</string>
+    <string name="weather_sunny">Sunny</string>
+    <string name="weather_cloudy">Cloudy</string>
+    <string name="weather_fog">Fog</string>
+    <string name="weather_drizzle">Drizzle</string>
+    <string name="weather_rain">Rain</string>
+    <string name="weather_snow">Snow</string>
+    <string name="weather_rain_showers">Rain showers</string>
+    <string name="weather_snow_showers">Snow showers</string>
+    <string name="weather_thunderstorm">Thunderstorm</string>
+    <string name="weather_unknown" translatable="false">—</string>
+</resources>
